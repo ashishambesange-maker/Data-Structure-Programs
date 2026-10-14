@@ -1,0 +1,6 @@
+git status
+git add .
+
+git commit -m "Add Cpp1"
+
+git push origin main
